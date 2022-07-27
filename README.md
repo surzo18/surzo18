@@ -11,7 +11,7 @@
   </a>
 </div>
 <div id="BADGES" align="center">
-  <img src="https://komarev.com/ghpvc/?surzo18&style=flat-square&color=blue" alt="Github Views"/>
+  <img src="https://komarev.com/ghpvc/?username=surzo18&style=flat-square&color=blue" alt="Github Views"/>
 </div>
 
 
