@@ -18,7 +18,7 @@
 ### Hi I'm Adrián 👋
 > Welcome to my profile! I'm full stack developer from Slovakia focused mainly on web-technologies and python stuff. 💻🐍
 
-### Technologies I'm using the most of time:
+## Technologies I'm using the most of time:
 <div id="technologies" align="justify">
    <a href="https://vuejs.org/">
    <img src="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844" alt="VueJS"/>
@@ -51,19 +51,4 @@
    <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpstorm"/>
    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="webstorm"/>
    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/>
-
 </div>
-<!--
-   **surzo18/surzo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-   
-   Here are some ideas to get you started:
-   
-   - 🔭 I’m currently working on ...
-   - 🌱 I’m currently learning ...
-   - 👯 I’m looking to collaborate on ...
-   - 🤔 I’m looking for help with ...
-   - 💬 Ask me about ...
-   - 📫 How to reach me: ...
-   - 😄 Pronouns: ...
-   - ⚡ Fun fact: ...
-   -->
