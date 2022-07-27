@@ -14,8 +14,10 @@
    <img src="https://komarev.com/ghpvc/?username=surzo18&style=flat-square&color=blue" alt="Github Views"/>
 </div>
 <hr/>
+
 ### Hi I'm Adrián 👋
 > Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻🐍
+
 ### Technologies I'm using the most of time:
 <br/> 
 <div id="technologies" align="justify">
