@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bpd3cw43ghq7uy6xvh6o8a4it2w9445o8axwbgov&rid=giphy.gif&ct=g" width="320"/>
 </div>
+<div id="BAFGES" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ### Hi there 👋
 
