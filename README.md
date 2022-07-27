@@ -18,7 +18,7 @@
 
 ### Hi I'm Adrián 👋
 
-Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻 
+> Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻 
 
 ### Technologies I
 <!--
