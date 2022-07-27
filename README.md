@@ -14,12 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=surzo18&style=flat-square&color=blue" alt="Github Views"/>
 </div>
 
-
-
 <hr/>  
 
-### Hi there 👋
+### Hi I'm Adrián 👋
 
+Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻 
+
+### Technologies I
 <!--
 **surzo18/surzo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
