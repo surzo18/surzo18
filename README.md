@@ -20,7 +20,15 @@
 
 > Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻🐍
 
-### Technologies I'm using the most
+### Technologies I'm using the most of time
+
+<div id="technologies" align="center">
+  <a href="[https://www.linkedin.com/in/adrian-m-941735185/?trk=public_profile_browsemap&originalSubdomain=cz](https://vuejs.org/)">
+    <img src="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 <!--
 **surzo18/surzo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
