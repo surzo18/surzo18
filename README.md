@@ -18,9 +18,9 @@
 
 ### Hi I'm Adrián 👋
 
-> Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻 
+> Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻🐍
 
-### Technologies I
+### Technologies I'm using the most
 <!--
 **surzo18/surzo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
