@@ -16,7 +16,7 @@
 <hr/>
 
 ### Hi I'm Adrián 👋
-> Welcome to my profile! I'm full stack developer focused mainly on web-technologies and python stuff. 💻🐍
+> Welcome to my profile! I'm full stack developer from Slovakia focused mainly on web-technologies and python stuff. 💻🐍
 
 ### Technologies I'm using the most of time:
 <div id="technologies" align="justify">
