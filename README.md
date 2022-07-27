@@ -36,6 +36,8 @@
    <a href="https://nodejs.org/en//">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
    </a>
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="CSS"/>
+
 </div>
 <!--
    **surzo18/surzo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
