@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/adrian-m-941735185/?trk=public_profile_browsemap&originalSubdomain=cz">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/-FULLSTACK%20WEB%20DEVELOPER-black" alt="Software Developer Badge"/>
+  <img src="https://img.shields.io/badge/-FULLSTACK%20WEB%20DEVELOPER-black?style=for-the-badge" alt="Software Developer Badge"/>
 </div>
 
 <hr/>  
