@@ -22,8 +22,7 @@ Technologies I'm using for the most of time:
 <div id="technologies" align="justify">
    <a href="https://vuejs.org/">
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS"/>
-   </a>
-   <a href="https://www.javascript.com/">
+   </a><a href="https://www.javascript.com/">
    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="Javascript"/>
    </a>
    <a href="https://www.typescriptlang.org/">
